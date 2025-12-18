@@ -1,0 +1,3 @@
+void parseUTML(char* Document) {
+    
+}
