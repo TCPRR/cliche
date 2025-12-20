@@ -1,0 +1,5 @@
+makefile linguist-detectable=false
+Makefile linguist-detectable=false
+MAKEFILE linguist-detectable=false
+GNUmakefile linguist-detectable=false
+GNUMakefile linguist-detectable=false
