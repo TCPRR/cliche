@@ -53,3 +53,6 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# just so it doesn't happen in the future
+.vscode/
